@@ -1,0 +1,29 @@
+{
+  "name": "AngularJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bqopd/AngularJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bqopd/AngularJS/issues"
+  },
+  "homepage": "https://github.com/bqopd/AngularJS#readme",
+  "dependencies": {
+    "angular": "^1.7.5",
+    "bootstrap": "^4.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
